@@ -7,7 +7,7 @@
 - Undergraduate Student in School of Computer Engineering, Kwangwoon University 
 
 ### 🌟 Interests
-- Back-End Developer
+- Back-End
 - IoT
 - Dog
 
