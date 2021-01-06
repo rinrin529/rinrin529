@@ -5,7 +5,7 @@
 
 ### :mortar_board: Education 
 - Kwangwoon University, Seoul, Republic of Korea   
-  Bachelor's Degree in Computer Engineering (2021.02 Expected Graduation Month)    
+  Bachelor's Degree in Computer Engineering (2021.07 Expected Graduation Month)    
     
     
     
