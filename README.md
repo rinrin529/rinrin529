@@ -19,6 +19,7 @@
 ### :star2: Interests
 - Back-End
 - IoT   
+- AI Service   
 
    
    
