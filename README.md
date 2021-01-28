@@ -1,7 +1,7 @@
 # Developer YERIN 👩🏻‍💻
 
 **Welcome to my Github profile!**  
-
+📫 Email: lynn529@naver.com   
 
 ### :mortar_board: Education 
 - Kwangwoon University, Seoul, Republic of Korea   
