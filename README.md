@@ -10,7 +10,7 @@
     
     
 ### :office: Work Experience
-- Intership at Electronics and Telecommunications Research Institute [ETRI](https://www.etri.re.kr/intro.html) (2020.07 ~ 2020.08)   
+- Intership at Electronics and Telecommunications Research Institute [ETRI](https://www.etri.re.kr/intro.html) 
   Image labeling and deep learning training    
   AI speaker based system lighting control    
     
