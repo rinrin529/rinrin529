@@ -4,8 +4,8 @@
 📫 Email: lynn529@naver.com   
 
 ### :mortar_board: Education 
-- Kwangwoon University, Seoul, Republic of Korea   
-  Bachelor's Degree in Computer Engineering (2021.08 Expected Graduation Month)    
+- Kwangwoon University, Seoul, Republic of Korea (2017.03~2021.08)   
+  Bachelor's Degree in Computer Engineering     
     
     
     
