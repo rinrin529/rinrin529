@@ -16,12 +16,12 @@
     
     
 
-- Intership at 코오롱베니트 [kolonbenit](https://www.kolonbenit.com/main/index.do) (2021.07~2021.08)    
+- Intership at [kolonbenit](https://www.kolonbenit.com/main/index.do) (2021.07~2021.08)    
   HelpworX project (Spring boot, JPA, VUE)  
 
 
 
-- Working at LG CNS [LG CNS](https://www.lgcns.co.kr/) (2021.08 ~ )        
+- Working at [LG CNS](https://www.lgcns.co.kr/) (2021.08 ~ )        
 ### :star2: Interests
 - Back-End
 - IoT   
