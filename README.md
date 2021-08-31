@@ -17,11 +17,14 @@
     
 
 - Intership at [kolonbenit](https://www.kolonbenit.com/main/index.do) (2021.07~2021.08)    
-  HelpworX project (Spring boot, JPA, VUE)  
+  HelpworX project (Spring boot, JPA, VUE, PostgreSQL)  
 
 
 
-- Working at [LG CNS](https://www.lgcns.co.kr/) (2021.08 ~ )        
+- Working at [LG CNS](https://www.lgcns.co.kr/) (2021.08 ~ )       
+    
+    
+    
 ### :star2: Interests
 - Back-End
 - IoT   
