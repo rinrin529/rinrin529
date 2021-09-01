@@ -15,14 +15,17 @@
   - AI speaker based system lighting control (KT GIGA Genie Open API, JavaScript)    
     
     
-
+    
+    
 [KOLON BENIT](https://www.kolonbenit.com/main/index.do) (2021.07~2021.08)       
   - Internship    
   - HelpworX project (Spring boot, JPA, VUE, PostgreSQL)      
-
-
-
+    
+    
+    
+    
 [LG CNS](https://www.lgcns.co.kr/) (2021.08 ~ )       
+    
     
     
     
