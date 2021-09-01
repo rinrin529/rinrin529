@@ -16,7 +16,7 @@
     
     
 
-- Intership at [kolonbenit](https://www.kolonbenit.com/main/index.do) (2021.07~2021.08)    
+- Intership at [KOLON BENIT](https://www.kolonbenit.com/main/index.do) (2021.07~2021.08)    
   HelpworX project (Spring boot, JPA, VUE, PostgreSQL)  
 
 
