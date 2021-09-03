@@ -24,7 +24,7 @@
     
     
     
-- [LG CNS](https://www.lgcns.co.kr/) (2021.08 ~ )       </br></br>
+- [LG CNS](https://www.lgcns.co.kr/) (2021.08~)       </br></br>
     
     
     
