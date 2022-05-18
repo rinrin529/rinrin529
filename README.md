@@ -25,8 +25,10 @@
     
     
 - [LG CNS](https://www.lgcns.co.kr/) (2021.08~)       </br></br>
-    
-    
+  재무회계 시스템 운영 및 개발 (Spring, Mybatis, Oracle, Nexacro, Java)        
+  
+
+  
     
     
 ### :star2: Interests
