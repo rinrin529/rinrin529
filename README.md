@@ -19,20 +19,18 @@
     
 - [KOLON BENIT](https://www.kolonbenit.com/main/index.do) (2021.07~2021.08)       
   Internship    
-  HelpworX project (Spring boot, JPA, VUE, PostgreSQL)      </br>
+  HelpworX project (Spring boot, Java, JPA, VUE, PostgreSQL)      </br>
     
     
     
     
 - [LG CNS](https://www.lgcns.co.kr/) (2021.08~)       
-  재무회계 시스템 운영 및 개발 (Spring, Mybatis, Oracle, Nexacro, Java)        </br></br>
+  재무회계 시스템 운영 및 개발 (Spring, Java, Mybatis, Oracle, Nexacro)        </br></br>
   
 
     
 ### :star2: Interests
 - Back-End
-- IoT   
-
    
    
 ------
