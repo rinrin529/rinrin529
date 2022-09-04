@@ -17,7 +17,7 @@
 - Image labeling and deep learning training
 - AI speaker based system lighting control
 
-***[2021.07.2021.08] [KOLON BENIT](https://www.kolonbenit.com/main/index.do) (Internship)***
+***[2021.07~2021.08] [KOLON BENIT](https://www.kolonbenit.com/main/index.do) (Internship)***
 
 - `Springboot` `JPA` `Vue.js` `vuetify` `QueryDSL` `PostgreSQL` `AWS EC2`
 - HelpworX project
