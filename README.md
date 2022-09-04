@@ -28,6 +28,61 @@
 - [LG CNS](https://www.lgcns.co.kr/) (2021.08~)       
   재무회계 시스템 운영 및 개발 (Spring, Java, Mybatis, Oracle, Nexacro)        </br></br>
   
+  
+  ### ****🏢 Work Experience****
+
+***[2020.07~2020.08] 한국전자통신연구원 ETRI (Internship)***
+
+- `KT GIGA Genie Open API` `JavaScript` `Apache HTTP Server` `Rest API`
+- Image labeling and deep learning training
+- AI speaker based system lighting control
+
+***[2021.07.2021.08] KOLON BENIT (Internship)***
+
+- `Springboot` `JPA` `Vue.js` `vuetify` `QueryDSL` `PostgreSQL` `AWS EC2`
+- HelpworX project
+
+***[2021.08~] LG CNS*** 
+
+- `Spring` `Java` `Mybatis` `Oracle` `Nexacro` `SVN`
+- 재무회계 시스템 운영 및 개발
+
+### 📝 **Used Tool & Skill**
+
+**언어**
+
+Java
+
+C/C++
+
+**데이터베이스**
+
+MySQL
+
+Oracle
+
+**서버**
+
+AWS EC2
+
+**버전 관리**
+
+SVN
+
+Git
+
+**Tool**
+
+Jenkins
+
+Scouter
+
+**프레임워크**
+
+Spring
+
+Spring boot
+  
 
     
 ### :star2: Interests
