@@ -27,6 +27,10 @@
 - `Spring` `Java` `Mybatis` `Oracle` `Nexacro` `SVN`
 - 재무회계 시스템 운영 및 개발
 
+
+
+- `Spring` `Java` `Mybatis` `Oracle` `ExBuilder` `GIT`
+- KB 생명보험 부분 차세대 구축
   
 </br>
     
