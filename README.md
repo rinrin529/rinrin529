@@ -28,7 +28,7 @@
 - `Spring` `Java` `Mybatis` `Nexacro` `Oracle` `SVN`
 - 재무회계 시스템 운영 및 개발 
 
-</br></br>
+</br>
 
 - 빌드센터 마이크로서비스개발팀 2023.02 ~
 - `Spring` `Java` `Mybatis` `JSP` `jQuery` `Oracle` `GIT`
