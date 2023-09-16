@@ -11,13 +11,13 @@
   
 ### ****🏢 Work Experience****
 
-***[2020.07~2020.08] 한국전자통신연구원 [ETRI](https://www.etri.re.kr/intro.html) ETRI (Internship)***
+***[2020.07~2020.08] 한국전자통신연구원 [ETRI](https://www.etri.re.kr/intro.html) 자율형 IoT 연구실 (Internship)***
 
 - `KT GIGA Genie Open API` `JavaScript` `Apache HTTP Server` `Rest API`
 - Image labeling and deep learning training
 - AI speaker based system lighting control
 
-***[2021.07~2021.08] [KOLON BENIT](https://www.kolonbenit.com/main/index.do) (Internship)***
+***[2021.07~2021.08] [KOLON BENIT](https://www.kolonbenit.com/main/index.do) 솔루션개발팀 (Internship)***
 
 - `Springboot` `JPA` `Vue.js` `vuetify` `QueryDSL` `PostgreSQL` `AWS EC2`
 - HelpworX project
@@ -25,12 +25,12 @@
 ***[2021.08~] [LG CNS](https://www.lgcns.co.kr/)*** 
 
 - `Spring` `Java` `Mybatis` `Nexacro` `Oracle` `SVN`
-- 재무회계 시스템 운영 및 개발
+- 재무회계 시스템 운영 및 개발 (DT 사업부 화학경영정보팀 2021.08~2022.12)
 
 
 
 - `Spring` `Java` `Mybatis` `JSP` `jQuery` `Oracle` `GIT`
-- KB 생명보험 부분 차세대 구축
+- KB 생명보험 부분 차세대 구축 (빌드센터 마이크로서비스개발팀 2023.02~)
   
 </br>
     
