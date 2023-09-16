@@ -11,16 +11,18 @@
   
 ### ****🏢 Work Experience****
 
-***[2020.07~2020.08] 한국전자통신연구원 [ETRI](https://www.etri.re.kr/intro.html) 자율형 IoT 연구실 (Internship)***
+***[2020.07~2020.08] 한국전자통신연구원 [ETRI](https://www.etri.re.kr/intro.html) (Internship)***
 
-- `KT GIGA Genie Open API` `JavaScript` `Apache HTTP Server` `Rest API`
-- Image labeling and deep learning training
-- AI speaker based system lighting control
+- 자율형 IoT 연구실 
+  - `KT GIGA Genie Open API` `JavaScript` `Apache HTTP Server` `Rest API`
+  - Image labeling and deep learning training
+  - AI speaker based system lighting control
 
-***[2021.07~2021.08] [KOLON BENIT](https://www.kolonbenit.com/main/index.do) 솔루션개발팀 (Internship)***
+***[2021.07~2021.08] [KOLON BENIT](https://www.kolonbenit.com/main/index.do) (Internship)***
 
-- `Springboot` `JPA` `Vue.js` `vuetify` `QueryDSL` `PostgreSQL` `AWS EC2`
-- HelpworX project
+- 솔루션개발팀
+  - `Springboot` `JPA` `Vue.js` `vuetify` `QueryDSL` `PostgreSQL` `AWS EC2`
+  - SR 접수 창구 일원화 시스템 HelpworX project 구축
 
 ***[2021.08~] [LG CNS](https://www.lgcns.co.kr/)*** 
 
