@@ -25,14 +25,13 @@
 ***[2021.08~] [LG CNS](https://www.lgcns.co.kr/)*** 
 
 - DT 사업부 화학경영정보팀 (2021.08 ~ 2022.12)
-- `Spring` `Java` `Mybatis` `Nexacro` `Oracle` `SVN`
-- 재무회계 시스템 운영 및 개발 
+  - `Spring` `Java` `Mybatis` `Nexacro` `Oracle` `SVN`
+  - 재무회계 시스템 운영 및 개발 
 
-</br>
 
 - 빌드센터 마이크로서비스개발팀 2023.02 ~
-- `Spring` `Java` `Mybatis` `JSP` `jQuery` `Oracle` `GIT`
-- KB 생명보험 부분 차세대 구축 
+  - `Spring` `Java` `Mybatis` `JSP` `jQuery` `Oracle` `GIT`
+  - KB 생명보험 부분 차세대 구축 
   
 </br>
     
