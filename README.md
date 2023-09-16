@@ -24,12 +24,12 @@
 
 ***[2021.08~] [LG CNS](https://www.lgcns.co.kr/)*** 
 
-- `Spring` `Java` `Mybatis` `Oracle` `Nexacro` `SVN`
+- `Spring` `Java` `Mybatis` `Nexacro` `Oracle` `SVN`
 - 재무회계 시스템 운영 및 개발
 
 
 
-- `Spring` `Java` `Mybatis` `Oracle` `ExBuilder` `GIT`
+- `Spring` `Java` `Mybatis` `JSP` `jQuery` `Oracle` `GIT`
 - KB 생명보험 부분 차세대 구축
   
 </br>
