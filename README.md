@@ -19,7 +19,6 @@
   - `Springboot` `JPA` `Vue.js` `vuetify` `QueryDSL` `PostgreSQL` `AWS EC2`
   - SR 접수 창구 일원화 시스템 HelpworX project 구축
 
-***[2021.08~] [LG CNS](https://www.lgcns.co.kr/)*** 
 
   - KB 생명보험 부분 차세대 구축 
   
